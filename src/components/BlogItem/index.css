@@ -1,0 +1,19 @@
+/* Write your CSS code here */
+.list-container {
+  height: 120px;
+  width: 200px;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 20px;
+}
+.for-top-section {
+  display: flex;
+  justify-content: space-between;
+}
+h1 {
+  font-size: 13px;
+  font-weight: bold;
+}
+p {
+  color: gray;
+}
